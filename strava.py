@@ -4,6 +4,7 @@ import swagger_client
 from swagger_client.rest import ApiException
 from pprint import pprint
 
+
 # Configure OAuth2 access token for authorization: strava_oauth
 swagger_client.configuration.access_token = 'YOUR_ACCESS_TOKEN'
 
